@@ -1,8 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 命运方舟新手攻略站
+description: 命运方舟攻略，新手职业选择，升级，搬砖，采集，收集，卡牌，符文
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://taogirl.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
